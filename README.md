@@ -1,6 +1,6 @@
-# AI Chatbot
+# AI Art Chatbot
 
-A modern chatbot application built with React and Flask, using OpenAI's GPT-3.5 API.
+A modern AI application with ability to draw and get feedback from an AI critique
 
 ## Setup
 
